@@ -1,0 +1,7 @@
+# This is tested on Arch Linux only. Other Linux distros may have other names for the package, which you will have to change accordingly in the script. 
+
+curl
+ffmpeg
+magick (imagemagick commandline tool)
+youtube-dl
+gifski (https://gif.ski/)
